@@ -1,4 +1,4 @@
-function strain_gauage
+function strain_gauge
 lam=1;% lame constant lambda
 miu=1;%lame constant miu
 h=1; %height of the left and the right part
